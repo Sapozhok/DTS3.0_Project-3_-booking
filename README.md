@@ -59,4 +59,7 @@
 
     возможно стоит заполнитеть пропуски точными коррдинатами отелей.
 
+Ссылка на Kaggle:
+
+https://www.kaggle.com/code/sapozhok/project-3-booking-final/notebook
 
